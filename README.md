@@ -26,5 +26,9 @@ Final reset and ready for next purchase
 ![image](https://github.com/user-attachments/assets/f2b8b22e-77f3-44f5-b059-f86dbbae9741)
 In this picture the ciruit is fully reset and ready for another coin to ender the vending machine and another selection process.
 
+# Old School Vending Machine
+![image](https://github.com/user-attachments/assets/5a3a40cc-8593-4162-8c84-8085f69325f7)
+Our circuit is a simplified version of this old vending machine because we only have one option to pick whereas for this vending machine there are multiple options and outcomes to get from the vending machine. 
+
 # Work Cited
 Justice, M. (2020). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
