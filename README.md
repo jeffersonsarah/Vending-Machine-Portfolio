@@ -28,6 +28,7 @@ In this picture the ciruit is fully reset and ready for another coin to ender th
 
 # Old School Vending Machine
 ![image](https://github.com/user-attachments/assets/5a3a40cc-8593-4162-8c84-8085f69325f7)
+
 Our circuit is a simplified version of this old vending machine because we only have one option to pick whereas for this vending machine there are multiple options and outcomes to get from the vending machine. 
 
 # Work Cited
